@@ -11,5 +11,4 @@ English Dictionary App
 * Search History 
 
 ## ScreenShot
-
-![English Dictionary](https://github.com/ardakazanci/English-Dictionary/blob/master/Screenshot_1565040413.png = 250x250)
+![](https://github.com/ardakazanci/English-Dictionary/blob/master/Screenshot_1565040413.png =250x250)
