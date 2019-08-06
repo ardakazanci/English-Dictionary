@@ -12,4 +12,4 @@ English Dictionary App
 
 ## ScreenShot
 
-![English Dictionary](https://github.com/ardakazanci/English-Dictionary/blob/master/Screenshot_1565040413.png)
+![English Dictionary](https://github.com/ardakazanci/English-Dictionary/blob/master/Screenshot_1565040413.png = 250X250)
