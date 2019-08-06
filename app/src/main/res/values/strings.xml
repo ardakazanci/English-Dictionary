@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="menu_text_settings">Settings</string>
+    <string name="menu_text_exit">Exit</string>
+    <string name="searchview_text_hint">Type Word...</string>
+    <string name="actionbar_text_title_english_words">English Words</string>
+</resources>
