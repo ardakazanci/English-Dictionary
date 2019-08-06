@@ -13,4 +13,4 @@ English Dictionary App
 ## ScreenShot
 
 
-![test](https://github.com/ardakazanci/English-Dictionary/blob/master/Screenshot_1565040413.png | width=48)
+https://github.com/ardakazanci/English-Dictionary/blob/master/Screenshot_1565040413.png
